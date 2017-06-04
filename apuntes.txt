@@ -1,0 +1,56 @@
+Inicializando proyecto para subir a github:
+
+-git init
+-git add archivo
+- git commit -m "comentario"
+git push
+
+
+
+
+
+Iniciando proyecto con npm:
+
+pc@omar MINGW64 /c/wamp/www/nodejs/ednode2016/probando (master)
+$ npm init
+This utility will walk you through creating a package.json file.
+It only covers the most common items, and tries to guess sensible defau
+
+See `npm help json` for definitive documentation on these fields
+and exactly what they do.
+
+Use `npm install <pkg> --save` afterwards to install a package and
+save it as a dependency in the package.json file.
+
+Press ^C at any time to quit.
+package name: (probando) package.json
+version: (1.0.0)
+description: aprendiendo a trabajar con node
+entry point: (index.js) package.json
+test command:
+git repository: https://github.com/OmarMontoyaVentocilla.git
+keywords:
+author: Omar Montoya <omarx372@hotmail.com>
+license: (ISC) MIT
+About to write to C:\wamp\www\nodejs\ednode2016\probando\package.json:
+
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "aprendiendo a trabajar con node",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OmarMontoyaVentocilla.git"
+  },
+  "author": "Omar Montoya <omarx372@hotmail.com>",
+  "license": "MIT"
+}
+
+
+Is this ok? (yes)
+
+pc@omar MINGW64 /c/wamp/www/nodejs/ednode2016/probando (master)
